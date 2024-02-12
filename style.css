@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+}
+
+.header {
+    padding: 10px;
+    border: 5px solid red;
+}
